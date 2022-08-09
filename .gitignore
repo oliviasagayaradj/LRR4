@@ -1,0 +1,9 @@
+assemblies/
+gff/
+badcodons/
+cds/
+cds_test/
+ecotypes.csv
+lrrpred/
+hvNLR/
+README.md
